@@ -22,6 +22,20 @@ body {
   max-width: 420px;
 }
 
+#asset-list {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0;
+  text-align: left;
+}
+
+#asset-list li {
+  padding: 8px 10px;
+  border-radius: 6px;
+  background: #f5f7fb;
+  margin-bottom: 8px;
+}
+
 #btn {
   margin-top: 16px;
   background: #0b5bd3;
